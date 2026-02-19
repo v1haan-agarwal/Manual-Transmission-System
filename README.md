@@ -1,6 +1,6 @@
 # ⚙️ Manual Transmission System
 
-The goal of this project was to create a manual transmission system that has the ability to rotate forward and backward. The strength was demonstrated by attempting to move heavy weights vertically up and down within a time constraint. 
+The goal of this project was to create a manual transmission system that has the ability to create forward and backward motion and brake at will. The strength of the design was demonstrated by attempting to move heavy weights vertically up and down within a time constraint. 
 
 Included are:
 - **CAD design of the final prototype**
