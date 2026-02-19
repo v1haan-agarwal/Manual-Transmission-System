@@ -19,12 +19,14 @@ on the input shaft drives a secondary shaft with a bevel gear, which engages two
 
 ## 🖼️ Project Gallery
 
-### 🔧 Engineering Drawing  
-![Drawing](slicer1.png)
+### 🔧 CAD Model
+![Drawing](trans1.png)
 
-### 🔧 CAD Model  
-![Drawing](slicer3.png)
+### 📸 Final Project Photo 
+![Drawing](trans2.png)
 
-### 📸 Final Project Photo  
-![Project Photo](slicer2.png)
+### 📊 Stress Analyses
+![Project Photo](trans3.png)
+![Project Photo](trans4.png)
+![Project Photo](trans5.png)
 
