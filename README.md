@@ -25,7 +25,7 @@ on the input shaft drives a secondary shaft with a bevel gear, which engages two
 ### 📸 Final Project Photo 
 ![Drawing](trans2.png)
 
-### 📊 Stress Analyses
+### 📊 Stress and Displacement Analyses (in order)
 ![Project Photo](trans3.png)
 ![Project Photo](trans4.png)
 ![Project Photo](trans5.png)
